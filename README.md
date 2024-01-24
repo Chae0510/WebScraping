@@ -1,3 +1,14 @@
+# 0. File description
+---
+#### 1. DataAnalysis.ipynb 
+👉 Contains code that implements web scraping. It extracts data from Etsy using Python's requests and the BeautifulSoup library. 
+
+#### 2. items.csv
+👉 Scraped data is stored.
+#### 3. updated_items.csv
+👉 Contains the preprocessed data from items.csv
+#### 4. webscraping.ipynb
+👉 Provides analysis of various variables, including basic statistical measurements and visualizations of data, such as selling prices, discount rates, and free shipping. (Extract data from Etsy using requests and the BeautifulSoup library)
 # 1. WebScraping
 ---
 #### 1-1. Choose a website with publicly accessible data that includes a numerical target variable. Suggested websites: Indeed, Etsy.
@@ -23,5 +34,3 @@
 <img width="511" alt="image" src="https://github.com/Chae0510/WebScraping/assets/85086390/08d8b388-ab93-4077-af4b-9904c4e82b72">
 1. convert 'k' values to numeric in Total Reviews
 2. Drop rows with NaN in 'Total reviews'
-
-#### Data Anaytics
