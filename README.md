@@ -32,5 +32,6 @@
 
 #### After Preprocessing
 <img width="511" alt="image" src="https://github.com/Chae0510/WebScraping/assets/85086390/08d8b388-ab93-4077-af4b-9904c4e82b72">
+
 1. convert 'k' values to numeric in Total Reviews
 2. Drop rows with NaN in 'Total reviews'
